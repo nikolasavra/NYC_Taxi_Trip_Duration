@@ -1,4 +1,4 @@
-# NYC_taxi_trip_duration
+# Description
 
 This is my implemenation for Kaggle's "New York City Taxi Trip Duration" Competition which was the main project for my optional course "Decision Theory" in the University of Patras. Predictions are made with four different models:
 * Random Forest 
